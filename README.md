@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Shahida+Ibrahim;Associate+Software+Engineer;Angular+Developer;Building+Clean+%26+Scalable+Web+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Shahida+Ibrahim;Software+Engineer;Angular+Developer;Building+Modern+Web+Applications" />
 
 <br/>
 
@@ -12,9 +12,9 @@
 
 <div align="center">
 
-### 💻 Associate Software Engineer | Angular Developer
+### 💻 Software Engineer | Angular | Spring Boot | Web Developer
 
-**Building modern web applications with clean UI, reliable APIs & scalable architecture**
+**Building modern web applications with clean UI, reliable APIs & scalable solutions**
 
 </div>
 
@@ -22,11 +22,13 @@
 
 ## 🧠 About Me
 
-* 🚀 Associate Software Engineer with professional experience in **Angular development**
+* 🚀 Software Engineer with professional experience in **Angular development**
 * 🅰️ Focused on building responsive and user-friendly web applications
-* 🔗 Hands-on experience working with **RESTful APIs and Spring Boot**
-* 🧩 Experienced in debugging, bug fixing and improving existing applications
-* 🏢 Experience working on **enterprise-level software systems**
+* 💻 Experienced with **Angular, TypeScript, JavaScript, HTML5, CSS3 and Sass**
+* 🔗 Hands-on experience with **Spring Boot and RESTful APIs**
+* 🗄️ Experienced in working with **SQL and MySQL databases**
+* 🧩 Enjoy solving problems, debugging and improving existing applications
+* 🏢 Experience working with enterprise-level software systems
 * 🌱 Continuously learning and improving my software engineering skills
 
 ---
@@ -35,7 +37,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,java,spring,mysql,git,jenkins,postman,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,java,spring,mysql,npm,git,jenkins,postman,figma&theme=dark" />
 
 </div>
 
@@ -47,23 +49,38 @@
 
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+
+<br/>
+
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 
 </div>
 
 ---
 
-## 🚀 What I Work With
+## 💻 Development
 
 ```text
-Frontend        → Angular | TypeScript | JavaScript | HTML | CSS
-Backend         → Java | Spring Boot | REST APIs
+Frontend        → Angular | TypeScript | JavaScript | HTML5 | CSS3 | Sass
+Backend         → Java | Spring Boot | RESTful APIs
 Database        → MySQL | SQL | DbVisualizer
+Package Manager → npm
 Testing         → Postman | Unit Testing | UAT
 DevOps & Tools  → Git | Jenkins | SonarQube | Tortoise SVN
 Other           → Figma | Grafana | JasperReports
@@ -71,19 +88,17 @@ Other           → Figma | Grafana | JasperReports
 
 ---
 
-## 💼 Experience
+## 🚀 What I Do
 
-**Associate Software Engineer**
-
-Working with Angular and enterprise web applications, including:
-
-* Developing and maintaining Angular-based applications
-* Integrating frontend applications with RESTful APIs
-* Implementing business requirements into user interfaces
-* Debugging and resolving software defects
-* Writing unit tests and supporting UAT cycles
-* Working with development and QA teams
-* Using tools such as Git, Jenkins, SonarQube and Postman
+* Develop and maintain **Angular web applications**
+* Build responsive and reusable UI components
+* Integrate frontend applications with **RESTful APIs**
+* Work with **TypeScript, JavaScript, HTML5, CSS3 and Sass**
+* Implement business requirements into user-friendly interfaces
+* Debug and resolve application issues
+* Write unit tests and support **UAT cycles**
+* Work with SQL databases and backend services
+* Use Git, Jenkins, SonarQube and Postman throughout the development workflow
 
 ---
 
@@ -91,7 +106,7 @@ Working with Angular and enterprise web applications, including:
 
 ### 🏢 Enterprise Insurance Application
 
-Angular-based enterprise application for managing insurance policies, claims and related workflows.
+Enterprise web application for managing insurance policies, claims and related business workflows.
 
 **Technologies:** Angular · TypeScript · REST APIs · SQL · Jenkins · SonarQube
 
